@@ -1,23 +1,25 @@
 
-body{
+/* body{
     background: url('../img/AlaukikLogos.png');
     background-repeat: no-repeat;
     background-position: center;
-    
-}
+} */
 
 .PolicyPage{
     width: 80vw;
-    height: 90vh; 
+    height: 80vh; 
     margin: auto;
     padding: 25px 50px;
-    border: 2px solid  black;
-    background: linear-gradient(90deg, #6222CC, rgba(247, 247, 247, 0.765));
+    /* border: 2px solid  black; */
+    /* background: linear-gradient(90deg, #6222CC, rgba(247, 247, 247, 0.765)); */
     opacity: 0.8;
-    color: white; 
+    /* color: white;  */
     border-radius: 10px;
     font-size: 1.2rem;
     overflow-y: scroll;
+    /* background: url('../img/AlaukikLogos.png');
+    background-repeat: no-repeat; */
+    background-position: center; 
 }
 
 /* width */

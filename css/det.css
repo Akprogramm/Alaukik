@@ -1,0 +1,18 @@
+.detInfo{
+    display: flex;
+    margin: 50px;
+    border: 2px solid black;
+    justify-content: space-between;
+}
+
+.detInfo img{ 
+    /* flex: 1; */
+    max-width: 50%; 
+} 
+
+.allText{ 
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
